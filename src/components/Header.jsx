@@ -1,8 +1,10 @@
 function Header() {
   return (
-    <h1>
-      Expense Tracker
-    </h1>
+    <div className="header">
+      <h1>
+        Expense Tracker
+      </h1>
+    </div>
   );
 }
 
