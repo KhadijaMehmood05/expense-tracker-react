@@ -62,7 +62,7 @@ function TransactionForm({ addTransaction }) {
 
     <div>
 
-      <h2>Add Transaction</h2>
+      <h2 className="form-heading">Add Transaction</h2>
 
 
       {error && (
